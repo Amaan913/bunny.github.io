@@ -69,7 +69,7 @@ function setup()
     canW=displayWidth;
     canH=displayHeight;
 
-    createCanvas(displayWidth+80,displayHeight)
+    createCanvas(displayWidth,displayHeight)
   }
 
   else{
